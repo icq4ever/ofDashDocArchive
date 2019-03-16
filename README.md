@@ -7,9 +7,9 @@ openFrameworks offline documentation for `Dash for Mac/Zeal/Velocity`
 - [Velocity](https://velocity.silverlakesoftware.com/) : Windows
 
 ## how to install?
-- Dash for Mac : search in `contribution`
-- Velocity : search in `contribution`
-- Zeal : unzip and place to `docset storage directory`
+- Dash for Mac : download in app `user contribution` section
+- Velocity : download in app `user contribution` section
+- Zeal : unarchive and place to `docset storage directory`
 
 ## credit
 - oF 0.8.4 : @[marcusficner](http://github.com/marcusficner)
