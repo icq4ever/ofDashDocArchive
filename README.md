@@ -14,3 +14,8 @@ openFrameworks offline documentation for `Dash for Mac/Zeal/Velocity`
 ## credit
 - oF 0.8.4 : @[marcusficner](http://github.com/marcusficner)
 - oF 0.9.3 - : @[icq4ever](http://github.com/icq4ever)
+
+## changelog
+### oF 0.12.0 
+- add openFrameworks and forum links on footer 
+- iosevka fonts added
